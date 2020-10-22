@@ -14,6 +14,9 @@ gunicorn = "*"
 flask = "*"
 pandas = "*"
 pydantic = "*"
+numpy = "*"
+scikit-surprise = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.8"
